@@ -8,7 +8,7 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡🎓 &nbsp; I'm a software developer and researcher by profession, and an incoming MS in Computer Science (Biomedical Informatics) student at Arizona State University! \
+💡 &nbsp; I'm a software developer and researcher by profession, and an incoming MS in Computer Science (Biomedical Informatics) student at Arizona State University! \
 💻 &nbsp;I'm currently performing research in the field of multimodal detection of human behavioral patterns and computational psychiatry.\
 🎓&nbsp;I graduated form Visvesvaraya National Institute of Technology, Nagpur (B.Tech, Computer Science and Engineering, Batch of 2021).\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.\
